@@ -1,24 +1,31 @@
-# README
+# with Pet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ペットと一緒に泊まれる宿、ペットと一緒に入れるレストランについて投稿・検索ができるSNSサービス
 
-Things you may want to cover:
+### サイトテーマ
+ペットを飼ってる人同士で情報共有ができる場を提供する。
 
-* Ruby version
+### テーマを選んだ理由
+自分も犬を飼っていて、一緒にレストランへ行ったり旅行に行ったりすることが良くある。
+ペット可のお店を探したい、また実際にペットを連れて行った人の評価・口コミを見つけたいといった時に、いつも苦労していた。
+ペットを飼っている人同士で情報交換ができる場があると便利だと感じ、今回のアプリケーションを製作することにした。
 
-* System dependencies
+### ターゲットユーザ
+ペットを飼っている個人・家族に向けたサービス
 
-* Configuration
+### 主な利用シーン
+・ペットと一緒に入れるお店を探したい時
+・ペットと一緒に泊まれる宿を探したい時
 
-* Database creation
+## 設計書
 
-* Database initialization
+### 機能一覧
+<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- 仮想環境：Vagrant,VirtualBox
