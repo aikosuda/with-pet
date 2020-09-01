@@ -21,7 +21,7 @@
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1bl_0I7NZrgVg5OzRSKElI6Sm1q7-NjQZvVZ0OmkCt9o/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
